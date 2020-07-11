@@ -5,6 +5,7 @@
 // Thanks to: COLLISION DETECTION by Jeff Thompson  
 // http://jeffreythompson.org/collision-detection/index.php
 // Using Objects to reduce the code length
+// design on redbubble at: https://www.redbubble.com/people/rupertrussell/works/45415188-design-201?asc=u
 
 int i = 0;
 float scale = 899;
